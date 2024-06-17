@@ -1,4 +1,5 @@
 # LAMSTACK-on-AWS-EC2-and-installing-WordPress
+Lets deploy a LAMP stack (linux or ubuntu, apache, mysql, php) on ubuntu ec2 instance.
 
 1 - create an instance of whatever OS you prefer, Ubuntu or linux. Then connect the instance through cmd or mac terminal. I am using ubuntu. For that go to your cmd or mac terminal. Then fire the cd downloads command to locate where the key pair is. Then fire command for connecting.
 ```
